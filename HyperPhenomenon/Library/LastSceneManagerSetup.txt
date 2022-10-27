@@ -4,8 +4,8 @@ sceneSetups:
   isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Hotel1Scene.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Hotel2Scene.unity
   isLoaded: 0
@@ -14,4 +14,8 @@ sceneSetups:
 - path: Assets/Scenes/Hotel3Scene.unity
   isLoaded: 0
   isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Hotel4Scene.unity
+  isLoaded: 1
+  isActive: 1
   isSubScene: 0

@@ -8,7 +8,7 @@ public class toOtherRoom : MonoBehaviour
     public GameObject room2;
     public GameObject room3;
 
-    public void otehrRoom()
+    public void otherRoom()
     {
         room1.SetActive(true);
         room2.SetActive(false);
